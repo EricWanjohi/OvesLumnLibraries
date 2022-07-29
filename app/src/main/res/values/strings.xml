@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">LUMNLIB</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_wifi">Wifi</string>
+    <string name="action_help">Help</string>
+    <string name="action_devices">Devices</string>
+    <string name="select_command">Select Command</string>
+    <string name="enter_input" />
+    <string name="enter_token_code">Token</string>
+    <string name="Code">Enter Token Code</string>
+    <string name="send">Send</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="set_above_notification1">Select the notification duration interval to keep "\n"yourself up to date for currency influences.</string>
+
+
+    <string name="channel_name">Simple Alarms</string>
+
+    <string name="title_alarm">Alarm %d</string>
+    <string name="title_alarm_next">Next alarm: %s\n%s from now.</string>
+    <string name="title_none">None</string>
+    <string name="title_vibrate">Vibrate</string>
+    <string name="title_repeat">Repeat</string>
+    <string name="title_set_alarm">Alarm</string>
+    <string name="title_set_timer">Timer</string>
+    <string name="title_set_stopwatch">Stopwatch</string>
+    <string name="title_lap">Lap</string>
+    <string name="title_stopwatch">Stopwatch</string>
+    <string name="title_stopwatch_share">%s Stopwatch: %s</string>
+    <string name="title_lap_number" translatable="false">#%d</string>
+    <string name="title_time">Time: %s</string>
+    <string name="title_lap_time">Lap: %s</string>
+    <string name="title_total_time">Total: %s</string>
+    <string name="title_share_results">Share Results…</string>
+    <string name="msg_delete_confirmation">Are you sure you want to delete %s?</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_start_timer">Start Timer</string>
+    <string name="title_auto">Auto</string>
+    <string name="title_sunrise">Sunrise</string>
+    <string name="title_sunset">Sunset</string>
+    <string name="title_theme">Theme</string>
+    <string name="title_appearance">Appearance</string>
+    <string name="title_sound_none">None</string>
+    <string name="title_snooze">Snooze</string>
+    <string name="title_alarms">Alarms</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_ringtones">Ringtones</string>
+    <string name="word_day">day</string>
+    <string name="word_days">days</string>
+    <string name="word_minute">minute</string>
+    <string name="word_minutes">minutes</string>
+    <string name="word_hour">hour</string>
+    <string name="word_hours">hours</string>
+    <string name="word_join">and</string>
+    <string name="title_snooze_custom">Custom…</string>
+    <string name="msg_snoozed_until">Snoozed until %s</string>
+    <string name="title_radio_test">Test</string>
+    <string name="title_radio_create">Create</string>
+    <string name="msg_radio_create">Create a new Radio</string>
+    <string name="msg_radio_url">Paste an \'.m3u8\' Radio URL here…</string>
+    <string name="msg_radio_previous">Choose a Previously Used Radio</string>
+    <string name="title_radio_stop">Stop</string>
+    <string name="title_radio">Radio</string>
+    <string name="title_time_zones">Time Zones</string>
+    <string name="title_behavior">Behavior</string>
+    <string name="title_default_alarm_ringtone">Default Alarm Ringtone</string>
+    <string name="title_default_timer_ringtone">Default Timer Ringtone</string>
+    <string name="title_sleep_reminder">Sleep Reminder</string>
+    <string name="desc_sleep_reminder">Send a notification reminding you to go to sleep a certain time before your alarm rings if you\'re using your phone.</string>
+    <string name="title_sleep_reminder_time">Sleep Reminder Time</string>
+    <string name="desc_sleep_reminder_time">%1$d hours before</string>
+    <string name="title_slow_wake_up">Slow Wake-up</string>
+    <string name="desc_slow_wake_up">Gradually increase brightness and volume when an alarm is ringing.</string>
+    <string name="title_slow_wake_up_time">Slow Wake-up Duration</string>
+    <string name="title_about">About &amp; OSS Licenses</string>
+    <string name="title_choose_time_zone">Choose a Time Zone</string>
+    <string name="msg_sleep_reminder">Your next alarm will ring approximately %s from now. To get your specified amount of sleep in the settings menu, you should go to bed now.</string>
+    <string name="title_alarm_name">Alarm Name</string>
+    <string name="title_background_image">Background Image</string>
+    <string name="title_ringing_background_image">Show Background Image On Alarms/Timers</string>
+    <string name="desc_ringing_background_image">Whether to display the background image when an alarm or timer is ringing.</string>
+    <string name="msg_alarms_empty">You don\'t have any alarms set. Press the \'+\' button to create one.</string>
+    <string name="msg_time_zones_selected">%d Selected</string>
+    <string-array name="array_themes">
+        <item>Schedule</item>
+        <item>Day</item>
+        <item>Night</item>
+        <item>AMOLED</item>
+    </string-array>
+
+    <string name="msg_battery_optimizations_switch_enable">Turn on the switch next to \"Alarmio\". You may need to scroll down… a lot.</string>
+    <string name="title_ignore_battery_optimizations">Ignore Battery Optimizations</string>
+
+    <!-- Material X   -->
+
+    <!--    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">-->
+    <!--    </string>-->
+
+    <!--    <string name="step_of">Step %1$d of %2$d</string>-->
+    <!--    <string name="section_format">Section : %1$d</string>-->
+
+    <!--    <string name="about_text">The best android implementation of material UI components. This app implemented based on Google Design Guidelines.-->
+    <!--    </string>-->
+
+    <!--    <string name="version_unknown">Unknown</string>-->
+    <!--    <string name="app_version">Version</string>-->
+    <!--    <string name="default_notification_channel_id">Default</string>-->
+    <!--    <string name="webview_loading">Load Content... </string>-->
+
+    <!-- Material X -->
+    <string name="lorem_ipsum">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+            \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        </string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    <string name="middle_lorem_ipsum">00</string>
+    <string name="medium_lorem_ipsum">Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim</string>
+
+    <string name="long_lorem_ipsum">
+            Duis tellus metus, elementum a lectus id, aliquet interdum mauris. Nam bibendum efficitur sollicitudin. Proin eleifend libero velit, nec fringilla dolor finibus quis. nMorbi eu libero pellentesque, rutrum metus quis, blandit est. Fusce bibendum accumsan nisi vulputate feugiat. In fermentum laoreet euismod. Praesent sem nisl, facilisis eget odio at, rhoncus scelerisque ipsum. Nulla orci dui, dignissim a risus ut, lobortis porttitor velit.
+            \n\nNulla id lectus metus. Maecenas a lorem in odio auctor facilisis non vitae nunc. Sed malesuada volutpat massa. Praesent sit amet lacinia augue, mollis tempor dolor.
+        </string>
+
+    <string name="long_lorem_ipsum_2">
+            Vivamus porttitor, erat at aliquam mollis, risus ligula suscipit metus, id semper nisi dui lacinia leo. Praesent at feugiat sem. Vivamus consectetur arcu sit amet metus efficitur dapibus. Sed metus ligula, efficitur quis finibus nec, pellentesque nec nulla. Nunc nec magna iaculis turpis vehicula condimentum id lobortis lectus.
+            \n\nQuisque augue diam, convallis nec mollis in, placerat nec elit. Aliquam non erat tristique, consequat tortor ultricies, sodales erat. Aliquam quis enim eu nulla facilisis sollicitudin eu mollis mauris. Donec ornare urna non libero volutpat tempus. Mauris elementum egestas ex, a laoreet urna. Ut a magna mattis, sodales massa a, blandit justo.
+        </string>
+
+    <string name="very_long_lorem_ipsum">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
+            \n\nQuisque facilisis finibus aliquam. Sed mattis, dui fringilla ornare finibus, orci odio blandit risus, ut maximus dui odio non leo. Donec laoreet lacus nisi, a mollis velit suscipit ac. Quisque faucibus ut nisl in congue. Nam sagittis consectetur tempus. Suspendisse eget posuere dui. Donec ultricies velit ex, vel cursus odio sollicitudin in. Nullam faucibus auctor ligula, eu rhoncus dui facilisis a. Curabitur vel feugiat est. Quisque congue at enim eleifend ultrices. Proin dapibus risus lorem, nec condimentum nunc consequat vitae. Quisque sapien lorem, vestibulum vitae justo eget, fringilla eleifend nisi.
+            \n\nMauris ultricies augue sit amet est sollicitudin laoreet. Fusce ut congue felis. Fusce dictum tristique elit nec iaculis. Mauris sodales tempus fringilla. Fusce nec nunc tempus, tempor sapien sit amet, ultricies erat. Mauris ultrices ac lorem ultrices facilisis. Nam pharetra, nisi a imperdiet interdum, nunc justo ultricies nisl, a laoreet massa dui vel enim. Pellentesque et magna ac tellus ullamcorper malesuada a ac nisl. Curabitur id est et neque convallis accumsan. Aliquam eleifend varius massa. Curabitur eu finibus tortor.
+            \n\nVivamus aliquam nisl rutrum orci volutpat porta in ornare est. Quisque ligula ipsum, vulputate id aliquam vitae, semper vitae orci. Nam non pulvinar ligula, eget tincidunt ante. Quisque sapien massa, varius tempus pretium id, vehicula at magna. Ut ut ultrices augue. Nam nec ullamcorper tellus, at finibus lectus. Fusce vel iaculis mauris, id porta nulla. Aenean ac mollis sapien. Morbi imperdiet augue tempus nulla luctus, sit amet feugiat purus elementum.
+            \n\nIn sit amet rutrum diam. Vivamus laoreet aliquam ipsum eget pretium. Mauris sagittis non elit quis fermentum. Aenean at diam nec tortor maximus rutrum. Sed nec nulla volutpat quam suscipit varius non at erat. Pellentesque non euismod diam, nec dapibus quam. Aliquam et posuere massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eu nibh sed diam posuere tincidunt et non felis. Aliquam sodales facilisis tortor, at maximus ante varius quis.
+            \n\nSuspendisse ornare est ac auctor pulvinar. Nam in venenatis risus. In facilisis tristique mollis. Curabitur tempus ipsum eget ipsum pharetra ornare. Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim est blandit sollicitudin non ut felis. Mauris nec mattis lacus. Cras consequat sapien a nisl faucibus, id consequat velit aliquet. Donec tincidunt quam elit, et scelerisque ipsum aliquet ac. Suspendisse lectus enim, auctor non justo et, vehicula consectetur nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum ipsum vitae ligula interdum vulputate. Aenean bibendum molestie pharetra. Praesent aliquam, sapien ac rutrum rhoncus, enim mauris lacinia ligula, vitae fermentum purus lacus nec ex. Donec vel dolor pulvinar, dignissim nunc id, tempus risus.
+            \n\nPhasellus blandit, leo ut semper vulputate, dui est fringilla purus, eu ullamcorper leo quam ut odio. Nunc tincidunt est eros, a dapibus massa hendrerit in. Aenean pellentesque ante eu justo pulvinar, eget sodales diam auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent vulputate nunc ut lorem viverra, ac condimentum sem vehicula. Etiam in dui quam. Aenean tincidunt porttitor dignissim. Aenean id est erat. Praesent tempus est ullamcorper tincidunt ultricies. Mauris ac velit lorem. Maecenas quis dui vel neque aliquet mattis aliquet et ante.
+            \n\nVivamus porttitor, erat at aliquam mollis, risus ligula suscipit metus, id semper nisi dui lacinia leo. Praesent at feugiat sem. Vivamus consectetur arcu sit amet metus efficitur dapibus. Sed metus ligula, efficitur quis finibus nec, pellentesque nec nulla. Nunc nec magna iaculis turpis vehicula condimentum id lobortis lectus. Etiam tempus nisi arcu, in condimentum felis vestibulum vitae. Donec fermentum dolor consequat nulla dignissim, non tempus leo viverra. Aenean magna magna, ultricies ut rutrum et, malesuada non nibh. Nam ligula erat, elementum sit amet justo eget, venenatis hendrerit nibh. In ac ipsum nunc. Nullam purus dolor, rhoncus eu justo id, vulputate ultrices nunc. Nam et risus velit. Fusce aliquam blandit urna quis pulvinar. Donec luctus tincidunt ipsum eu condimentum. Etiam porttitor dui in pulvinar vulputate.
+            \n\nQuisque augue diam, convallis nec mollis in, placerat nec elit. Aliquam non erat tristique, consequat tortor ultricies, sodales erat. Aliquam quis enim eu nulla facilisis sollicitudin eu mollis mauris. Donec ornare urna non libero volutpat tempus. Mauris elementum egestas ex, a laoreet urna. Ut a magna mattis, sodales massa a, blandit justo. Nunc placerat ante quis lacus dictum dictum vitae eu nisi. Fusce quis est sodales justo sollicitudin mollis. Suspendisse posuere, augue a ultricies lacinia, tortor tortor faucibus purus, pulvinar suscipit erat orci varius arcu. Phasellus id nisl vitae eros dignissim consectetur. Ut ac ex ac arcu vestibulum sagittis sit amet a massa.
+            \n\nSuspendisse elit libero, placerat vel ipsum vitae, tristique faucibus nulla. Aliquam ac elit porttitor, vestibulum turpis nec, bibendum dui. Vivamus quam orci, consequat in scelerisque id, dignissim vel purus. Proin rhoncus ante eu nisi dictum lacinia. Proin congue tempor nunc, eu semper elit tincidunt ut. Duis vehicula purus at lorem sollicitudin porttitor. Nulla facilisi. Donec non dapibus neque. Donec neque massa, sodales vitae eros nec, lacinia vestibulum neque. Nullam venenatis vitae tortor sed fermentum. Aenean massa enim, placerat eu ligula quis, tincidunt rutrum purus. Ut tincidunt egestas varius.
+        </string>
+
+    <string name="very_long_lorem_ipsum_2">
+            Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc eu urna pellentesque vulputate. Phasellus lacinia ut diam id mattis. Ut fermentum, sem non viverra maximus, elit massa varius dolor, ac elementum mi nunc eu orci. Fusce ornare mi sed dapibus tempus. Quisque sollicitudin condimentum ex vitae imperdiet. Mauris et est non nibh gravida suscipit eget id est.
+            \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis quis elit sed cursus. In commodo malesuada elit. Curabitur eget tortor ipsum. In consequat sollicitudin rhoncus. Donec interdum felis vitae ipsum mattis congue. Suspendisse eget tellus sit amet nunc egestas ultrices. Sed placerat eu arcu vel ullamcorper. Curabitur a dictum odio. Suspendisse fermentum ex vel ullamcorper scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam at nisl orci. Nullam ligula purus, pulvinar vel ligula sodales, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper tincidunt scelerisque. Praesent mollis magna ut consequat dictum.
+            \n\nDuis in vestibulum dui, non pulvinar tortor. Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc. Nullam facilisis tincidunt odio eget laoreet. Integer sapien ipsum, fringilla id purus et, cursus convallis dolor. Etiam vel lacinia nibh. Donec sollicitudin fermentum eleifend. Vivamus quis mauris in libero vehicula aliquet sit amet quis odio. Etiam et tincidunt turpis, vel iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam et mollis enim.
+            \n\nPraesent interdum lectus suscipit enim dictum, sed laoreet nisl posuere. Curabitur accumsan tellus ac iaculis fermentum. Curabitur a purus nec nibh porta imperdiet. Vivamus dignissim libero ut mauris rhoncus finibus non at urna. Phasellus a varius elit, a blandit est. Cras sodales tincidunt purus sit amet condimentum. Phasellus consectetur sem nec nisi congue, id gravida risus tristique. Curabitur vulputate convallis purus, vel bibendum nunc ultricies at.
+            \n\nInteger condimentum egestas eros mollis facilisis. Praesent vitae diam ac diam efficitur pretium nec vitae dui. Nunc quam est, porttitor ut dapibus non, sodales id nulla. Mauris facilisis malesuada dapibus. Aliquam erat volutpat. Vivamus vitae consequat mauris, nec dictum erat. Aliquam in consectetur est, sit amet varius risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vulputate dapibus lorem, ut interdum lectus bibendum nec. Suspendisse potenti. Cras elementum cursus nisl, ac pulvinar eros fringilla vitae. Cras ac tortor sagittis diam feugiat tincidunt id at est. Curabitur consequat ante purus. Nunc malesuada scelerisque leo vel efficitur.
+        </string>
+    <string name="invoice_address">
+            Terry M Smith\n(904) 246-1297\n207 Cherry St, Neptune Beach, FL, 32266
+        </string>
+
+    <string name="gdpr_privacy_policy">
+            By using this App, you agree to the <a href="http://dream-space.web.id/">Terms-Conditions</a>,
+            <a href="http://dream-space.web.id/">Cookies-Policy</a> and <a href="http://dream-space.web.id/">Privacy-Policy</a>
+            and consent to having your personal data, behavior transferred and processed outside EU.
+        </string>
+
+    <string name="search_greeting">
+            Hello, i am MtrlX.
+            \nWhat would you like
+            \nto search ?
+        </string>
+
+    <string name="OK">OK</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+    <string name="TYPE_SEARCH">SEARCH</string>
+    <string name="NO_IMAGE">NO IMAGE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="DISCARD">DISCARD</string>
+    <string name="AGREE">AGREE</string>
+    <string name="DISAGREE">DISAGREE</string>
+    <string name="OPEN">OPEN</string>
+    <string name="SAVE">SAVE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="BACK">BACK</string>
+    <string name="SKIP">SKIP</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="Devices">Device</string>
+    <string name="title_activity_s_s">SSActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="data_received">Data Received</string>
+    <string name="data">00</string>
+    <string name="opid">OPID:</string>
+    <string name="ppid">PPID:</string>
+    <string name="remaining_payg_days">Remaining PAYG Days:</string>
+    <string name="payg_days">PAYG Days:</string>
+    <string name="days_device_has_been_running">Days device has been running:</string>
+    <string name="read_device_output_control_state">Read device output control state:</string>
+    <string name="read_device_running_state">Read device running state:</string>
+    <string name="read_device_relative_soc">Read device relative SOC:</string>
+    <string name="read_remaining_capacity">Read remaining capacity:</string>
+    <string name="read_accu_energy_output">Read accu energy output:</string>
+    <string name="read_accu_cycles">Read accu cycles:</string>
+    <string name="read_run_days_backup">Read run days backup:</string>
+    <string name="hashtop">Hashtop:</string>
+    <string name="cellvoltage1">CellVoltage1:</string>
+    <string name="cellvoltage2">CellVoltage2:</string>
+    <string name="cellvoltage3">CellVoltage3:</string>
+    <string name="cellvoltage4">CellVoltage4:</string>
+    <string name="batteryvoltage">BatteryVoltage:</string>
+    <string name="batterycurrent">BatteryCurrent:</string>
+    <string name="batterytemperature">BatteryTemperature:</string>
+    <string name="flid">FLID</string>
+    <string name="frmv">FRMV</string>
+    <string name="pubk">PUBK</string>
+    <string name="gctw">GCTW</string>
+    <string name="gstw">GSTW</string>
+    <string name="napn">NAPN</string>
+    <string name="rcrd">RCRD</string>
+    <string name="trhd">TRHD</string>
+    <string name="tpgd">TPGD</string>
+    <string name="pgst">PGST</string>
+    <string name="ocst">"OCST"</string>
+    <string name="sstc">"SSTC"</string>
+    <string name="rsoc">"RSOC"</string>
+    <string name="rcap">"RCAP"</string>
+    <string name="rdbk">"RDBK"</string>
+    <string name="batp">"BATP"</string>
+    <string name="inpp">"INPP"</string>
+    <string name="outp">"OUTP"</string>
+    <string name="aeng">"AENG"</string>
+    <string name="cv01">"CV01"</string>
+    <string name="cv02">"CV02"</string>
+    <string name="cv03">"CV03"</string>
+    <string name="cv04">"CV04"</string>
+    <string name="pckv">"PCKV"</string>
+    <string name="pckc">"PCKC"</string>
+    <string name="pckt">"PCKT"</string>
+    <string name="plat">"PLAT"</string>
+    <string name="plon">"PLON"</string>
+    <string name="time">"TIME"</string>
+    <string name="gpss">"GPSS"</string>
+    <string name="gpfc">"GPFC"</string>
+    <string name="tooltip">Help</string>
+    <string name="acyc">ACYC</string>
+    <string name="unknown_service">UnKnown Service</string>
+    <string name="unknown_characteristic">Unknown Characteristic</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title">Device</string>
+    <string name="content">"Check if OTG cable is connected "</string>
+    <string name="agree">OK</string>
+    <string name="disagree">CANCEL</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyC3SrcUtXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    </string>
+
+    <string name="step_of">Step %1$d of %2$d</string>
+    <string name="section_format">Section : %1$d</string>
+
+    <string name="about_text">The best android implementation of material UI components. This app implemented based on Google Design Guidelines.
+    </string>
+
+    <string name="version_unknown">Unknown</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="default_notification_channel_id">Default</string>
+    <string name="webview_loading">Load Content... </string>
+    <string name="client_fragment">Client Fragment</string>
+    <string name="ecommerce_fragment">Ecommerce Fragment</string>
+    <string name="event_fragment">Event Fragment</string>
+    <string name="identity_fragment">Identity Fragment</string>
+    <string name="migration_fragment">Migration Fragment</string>
+    <string name="my_settings_fragment">My Settings Fragment</string>
+    <string name="scanner_fragment">Scanner Fragment</string>
+    <string name="support_fragment">Support Fragment</string>
+    <string name="thing_fragment">Thing Fragment</string>
+    <string name="accounts_fragment">Account Fragment</string>
+    <string name="fleets_fragment">Fleets Fragment</string>
+    <string name="asset_accounts_fragment">Asset Accounts Fragment</string>
+    <string name="customer_fragment">Customer Fragment</string>
+    <string name="items_fragment">Items Fragment</string>
+    <string name="otg">"OTG"</string>
+    <string name="otg_tile_content_description">OTG Connection</string>
+    <string name="mqtt">MQTT</string>
+    <string name="mqtt_tile_content_description">MQTT</string>
+    <string name="thing_fragment_topics">Thing Fragment</string>
+    <string name="lumnlibrary_service_started">Lumn Library Service Started</string>
+
+</resources>

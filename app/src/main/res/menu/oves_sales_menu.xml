@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/device_scanner"-->
+<!--            android:checked="true"-->
+<!--            android:icon="@drawable/ic_move_to_inbox"-->
+<!--            android:title="Device Scanner" />-->
+        <item
+            android:id="@+id/nav_all_inbox"
+            android:checked="true"
+            android:icon="@drawable/settings_icon"
+            android:title="My Settings" />
+    </group>
+
+<!--    <group-->
+<!--        android:id="@+id/grp_2"-->
+<!--        android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/nav_inbox"-->
+<!--            android:icon="@drawable/idenctity_icon"-->
+<!--            android:title="Identity" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_priority_inbox"-->
+<!--            android:icon="@drawable/client_icon"-->
+<!--            android:title="Client" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_social"-->
+<!--            android:icon="@drawable/thing_icon"-->
+<!--            android:title="Thing" />-->
+<!--    </group>-->
+
+
+    <item
+        android:checkableBehavior="single"
+        android:title="All labels">
+
+        <group
+            android:id="@+id/grp_3"
+            android:checkableBehavior="single">
+<!--            <item-->
+<!--                android:id="@+id/nav_starred"-->
+<!--                android:icon="@drawable/event_icon"-->
+<!--                android:title="Event" />-->
+            <item
+                android:id="@+id/nav_sent"
+                android:icon="@drawable/ecommerce_icon"
+                android:title="Ecommerce" />
+<!--            <item-->
+<!--                android:id="@+id/nav_spam"-->
+<!--                android:icon="@drawable/migration_icon"-->
+<!--                android:title="Migration" />-->
+            <item
+                android:id="@+id/nav_trash"
+                android:icon="@drawable/contact_support_icon"
+                android:title="Support" />
+        </group>
+    </item>
+
+</menu>

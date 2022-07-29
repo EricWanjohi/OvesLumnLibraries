@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/action_search"-->
+<!--        android:icon="@drawable/ic_search"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:title="Search"-->
+<!--        app:showAsAction="never"/>-->
+    <item
+        android:id="@+id/action_mqtt"
+        android:orderInCategory="200"
+        android:title="MQTT"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_otg"
+        android:orderInCategory="200"
+        android:title="OTG"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_lumn"
+        android:orderInCategory="200"
+        android:title="LUMN"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+</menu>
