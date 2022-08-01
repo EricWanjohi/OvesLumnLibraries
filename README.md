@@ -1,5 +1,6 @@
 # OvesLumnLibraries
-This repo is meant to create a sample of serail communication application to communicate with OVES LUMN devices 
+This repo is meant to create a sample of serail communication application to communicate with OVES LUMN devices. 
+The version used to test the sample app is M400 LUMN series
 
 ## Implementation in Android Studio
 
